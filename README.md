@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rafael Pessoa.
 
 
-- 🔭 Hoje eu trabalho com desenvolvimento front-end
+- 🔭 Hoje trabalho com desenvolvimento front-end
 - 🌱 Estou aprendendo ReactJS e TypeScript
 - �  Fato curioso: Sou apaixonado por desenvolvimento front-end e UI/UX
 
