@@ -1,8 +1,8 @@
 ## Olá, eu sou o Rafael Pessoa!
 
-- 🔭 Hoje trabalho com desenvolvimento front-end
-- 🌱 Estou aprendendo ReactJS e TypeScript
-- � Fato curioso: Sou apaixonado pela parte de front-end & UI/UX.
+- 🔭 Working with Front-end dev
+- 🌱 Learning ReactJS and TypeScript
+- � About Cybersecurity and UI/UX enthusiast
 <div align="center">
   <a href="https://github.com/PessoaRafael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PessoaRafael&layout=compact&langs_count=7&theme=dark"/>
