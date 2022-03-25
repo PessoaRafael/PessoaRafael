@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com desenvolvimento front-end
 - 📚 Estudando ReactJS e TypeScript
-- 📫 Contate-me no e-mail: rafaelbento65@gmail.com
 - ⚡ Fato curioso: Sou apaixonado em desenvolvimento front-end & UI/UX
 
 <div align="center" style="display: inline_block">
