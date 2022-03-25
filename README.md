@@ -3,11 +3,9 @@
 - 🔭 Hoje trabalho com desenvolvimento front-end
 - 🌱 Estou aprendendo ReactJS e TypeScript
 - � Fato curioso: Sou apaixonado pela parte de front-end & UI/UX.
-<div align="left">
+<div align="center">
   <a href="https://github.com/PessoaRafael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PessoaRafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-  <div align="right">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PessoaRafael&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
