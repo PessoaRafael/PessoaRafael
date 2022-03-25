@@ -5,7 +5,6 @@
 - � About me: Cybersecurity and UI/UX enthusiast
 <div align="center">
   <a href="https://github.com/PessoaRafael">
-    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=PessoaRafael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PessoaRafael&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
