@@ -1,4 +1,8 @@
-### Olá, eu sou o Rafael Pessoa, desenvolvedor front-end!
+## Olá, eu sou o Rafael Pessoa!
+
+- 🔭 Hoje trabalho com desenvolvimento front-end
+- 🌱 Estou aprendendo ReactJS e TypeScript
+- � Fato curioso: Sou apaixonado pela parte de front-end & UI/UX.
 <div align="center">
   <a href="https://github.com/PessoaRafael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PessoaRafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
