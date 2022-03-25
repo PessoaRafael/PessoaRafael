@@ -1,6 +1,6 @@
 ## Olá, eu sou o Rafael Pessoa!
 
-- 🔭 Working with Front-end development
+- 🔭 Working at Front-end developer
 - 🌱 Learning ReactJS and TypeScript
 - � About Cybersecurity and UI/UX enthusiast
 <div align="center">
