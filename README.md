@@ -2,7 +2,7 @@
 
 - 🔭 Working at Front-end developer
 - 🌱 Learning ReactJS and TypeScript
-- � About Cybersecurity and UI/UX enthusiast
+- � About me: Cybersecurity and UI/UX enthusiast
 <div align="center">
   <a href="https://github.com/PessoaRafael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PessoaRafael&layout=compact&langs_count=7&theme=dark"/>
